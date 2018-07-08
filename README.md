@@ -4,4 +4,6 @@ Machine learning model predicting fraudulent bank transactions in the Kaggle ban
 
 This is a work in progress notebook for me to learn to use Tensorflow to implement neural network models.
 
+I also explored a more traditional ML approach in scratch-scikit.
+
 Data available here: https://www.kaggle.com/ntnu-testimon/paysim1
