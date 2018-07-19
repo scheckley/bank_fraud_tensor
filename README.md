@@ -10,4 +10,6 @@ This is a work in progress notebook for me to learn to use Tensorflow to impleme
 
 I also explored a more traditional ML approach using scikit learn and documented this in scratch-scikit. 
 
-I have managed to achieve 96% accuracy using linear regression which I can't beat with other methods (so far). Training time is a few minutes on a 2017 MacBook Pro and the pickled model file is ~7kb, making this (in my opinion) an efficient solution.
+I have managed to achieve 98.5% accuracy using XGBoost which, at time of writing, I can't beat with other methods such as linear regression and stochastic gradient descent. 
+
+Training time is a few minutes on a 2017 MacBook Pro and the pickled model file is ~2mb, making this (in my opinion) an efficient solution.
