@@ -10,6 +10,7 @@ y_resampled.pkl
 *.index
 *.csv
 *.pkl
+*.zip
 temp_saved_model_1layer.ckpt.data-00000-of-00001
 temp_saved_model_FCLayers.ckpt.data-00000-of-00001
 checkpoint
